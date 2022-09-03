@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "oshop-652b3": {
+      "hosting": {
+        "organicShop": [
+          "oshop-652b3"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "oshop-652b3"
+  }
+}
